@@ -26,7 +26,7 @@ Note:
 
 ```bash
 
-npm run publsh; 
-npm docs:build;git 
+npm run publish
+npm docs:build
 
 ```
