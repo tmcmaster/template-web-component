@@ -15,3 +15,18 @@ npm i @wonkytech/template-web-component
 
 <template-web-component></template-web-component>
 ```
+
+## Development
+
+Note:  
+
+- To publish, the user needs appropriate permissions to do so.
+- Publish will fail the first time it is run, if Two Factor authentication is enabled in Github. 
+- Just rerun publish step, and everything should be good from there.
+
+```bash
+
+npm run publsh; 
+npm docs:build;git 
+
+```
