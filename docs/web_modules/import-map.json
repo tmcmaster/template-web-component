@@ -1,6 +1,5 @@
 {
   "imports": {
-    "lit-element": "./lit-element.js",
-    "lit-html": "./lit-html.js"
+    "@wonkytech/template-web-component": "./@wonkytech/template-web-component.js"
   }
 }
