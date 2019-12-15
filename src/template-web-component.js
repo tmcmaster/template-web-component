@@ -1,4 +1,5 @@
-import {html, css, LitElement} from 'lit-element';
+import {html} from 'lit-html';
+import {LitElement, css} from 'lit-element';
 
 window.customElements.define('template-web-component', class extends LitElement {
 
